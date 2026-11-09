@@ -7,7 +7,7 @@ Machine Learning Preditivo com Python
 Autor: Nivaldo Marinho
 E-mail: nidomarinho@gmail.com
 GitHub (repositório do projeto): https://github.com/nidomarinho-Tito/projeto-ananas-ml
-Vídeo de apresentação: [INSERIR LINK DO VÍDEO]
+Vídeo de apresentação:https://drive.google.com/file/d/19YrNk9xEyny5M5uD5K8lVWqgzFIa5I7n/view?usp=sharing
 1. Apresentação
 O Projeto Ananas é uma aplicação didática de aprendizado de máquina voltada à classificação de cinco cultivares de abacaxi (Ananas comosus), com base em características morfoagronômicas do fruto. O projeto integra um pipeline de classificação desenvolvido com scikit-learn a uma API REST construída com FastAPI, permitindo enviar atributos de uma amostra e receber a previsão do modelo.
 
@@ -129,7 +129,7 @@ Ao concluir as etapas do notebook, o pacote final pode reunir o código-fonte, a
 Projeto acadêmico: Carreira Tech — Trilha Inteligência Artificial
 Área: Machine Learning Preditivo com Python
 Desenvolvido por: Nivaldo Marinho
-- Vídeo de apresentação: [COLE AQUI O LINK DO VÍDEO]
-- Repositório no GitHub: [COLE AQUI O LINK DO REPOSITÓRIO]
-- E-mail para contato: [INFORME SEU E-MAIL]
+- Vídeo de apresentação: https://drive.google.com/file/d/19YrNk9xEyny5M5uD5K8lVWqgzFIa5I7n/view?usp=sharing
+- Repositório no GitHub: https://github.com/nidomarinho-Tito/projeto-ananas-ml
+- E-mail para contato: nidomarinho@gmail.com
 Projeto desenvolvido com finalidade educacional, para demonstrar a integração entre aprendizado de máquina, organização de código Python e disponibilização de modelos por API REST.
